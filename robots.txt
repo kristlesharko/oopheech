@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aifaivooko.audiohackday.org/sitemap.xml
